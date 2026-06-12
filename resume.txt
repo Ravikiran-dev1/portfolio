@@ -1,0 +1,22 @@
+A Ravikiran
+AI & Data Science Engineering Student
+
+Resume Placeholder
+
+Skills:
+- Python
+- C
+- Java
+- Machine Learning
+- Data Science
+- IoT
+- Web Development
+
+Projects:
+- Crashsense
+- Smart Garage using RFID technology
+
+Contact:
+ravikiran@example.com
+https://github.com/a-ravikiran
+https://www.linkedin.com/in/a-ravikiran
